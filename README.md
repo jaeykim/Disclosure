@@ -1,7 +1,7 @@
 Disclosure
 ================
 
-Octane benchmark for Node.js
+Octane benchmark for Disclosure library test with Octane.js
 
 How to use
 ----------
